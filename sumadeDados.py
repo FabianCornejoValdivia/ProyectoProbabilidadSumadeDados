@@ -41,7 +41,7 @@ def Probabilidad_Dados ():
                 else:  contador2 += 1
 
         
-                print("estasmo mejorando la programacion aunque sea de a poco ")
+                print("ESTAS SON PRUEBS PARA SUBIR A GITHUB")
                     
     label3.config(text=proba_sumadados)
         
